@@ -1,0 +1,48 @@
+{
+    "width": 400,
+    "height": 300,
+    "data": {
+      "url": "data/energy_time_series.csv"
+    },
+    "transform": [
+      {
+        "calculate": "year(datum.Year)",
+        "as": "YearOnly"
+      }
+    ],
+    "mark": "area",
+    "title": "Renewable energy produced Globally: 1965 - 2022",
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "title": "Year",
+        "axis": {"grid": false}
+      },
+      "y": {
+        "aggregate": "sum",
+        "field": "TWh",
+        "title": "Energy in TWh",
+        "axis": {"grid": false}
+      },
+      "color": {
+        "field": "Type",
+        "scale": {"scheme": "set2"},
+        "title": ""
+      },
+      "tooltip": [
+        {"field": "YearOnly", "title": "Year", "type": "temporal", "format": "%Y"},
+        {"field": "TWh", "title": "Energy in TWh", "type": "quantitative", "format": ".2f"},
+        {"field": "Type", "title": "Type", "type": "nominal"}
+      ]
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      },
+      "legend": {
+        "orient": "top-left"
+      }
+    }
+  }
+  

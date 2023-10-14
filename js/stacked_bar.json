@@ -1,0 +1,29 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "data/food-emissions-supply-chain.csv"},
+    "transform": [
+      {"fold": ["food_emissions_land_use", "food_emissions_farm", "food_emissions_animal_feed", "food_emissions_processing", "food_emissions_transport", "food_emissions_retail", "food_emissions_packaging", "food_emissions_losses"]},
+      {"calculate": "datum.key === 'food_emissions_land_use' ? 'Land Use' : (datum.key === 'food_emissions_farm' ? 'Farming' : (datum.key === 'food_emissions_animal_feed' ? 'Animal Feed' : (datum.key === 'food_emissions_processing' ? 'Processing' : (datum.key === 'food_emissions_transport' ? 'Transport' : (datum.key === 'food_emissions_retail' ? 'Retail' : (datum.key === 'food_emissions_packaging' ? 'Packaging' : (datum.key === 'food_emissions_losses' ? 'Losses' : 'Other')))))))", "as": "CategoryAlias"}
+    ],
+    "mark": {"type":"bar"},
+    "encoding": {
+      "y": {"field":"Entity", "type":"nominal", "sort": "-x", "title": ""},
+      "x": {"aggregate":"sum", "field":"value", "type":"quantitative", "scale": {"domain": [-5, 100]}, "title": "CO2 (kg) per unit of product produced (kg)", "axis": {"grid": false}},
+      "color": {"field":"CategoryAlias", "type":"nominal", "scale": {"scheme": "set1"}, "title": ""},
+      "order": {"field": "value", "type": "quantitative"},
+      "tooltip": [
+        {"field": "CategoryAlias", "title": "Sub-category"},
+        {"field": "value", "title": "Value", "format": ".2f"}, 
+        {"field": "Entity", "title": "Food"}
+      ]
+    },
+    "config": {
+        "view": {
+          "stroke": "transparent" 
+        }
+    },
+    "width": 600,
+    "height": 400,
+    "title": "Greenhouse Gas Emissions per Kilogram of Product: 2010"
+  }
+  

@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": 300,
+  "title": "CO2 Emissions by Fuel Type: 2021",
+  "data": {"url": "data/co2_per_capita.csv"},
+  "params": [
+    {
+      "name": "CountryParam",
+      "value": "Australia",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Australia",
+          "Canada",
+          "China",
+          "Germany",
+          "India",
+          "South Africa",
+          "United Kingdom",
+          "United States",
+          "World"
+        ],
+        "name": "Region Selection: "
+      }
+    }
+  ],
+  "transform": [{
+    "filter": "datum.Country == CountryParam"
+  }],
+  "mark": {
+    "type": "bar",
+    "color": "#5A5A5A" 
+  },
+  "encoding": {
+    "y": {"field": "Type", "type": "nominal", "title": "", "sort": "-x"},
+    "x": {"field": "Value", "type": "quantitative", "title": "Tonnes per Capita", "axis": {"grid": false}},
+    "tooltip": [  
+        {"field": "Country", "type": "nominal", "title": "Region: "},
+        {"field": "Type", "type": "nominal", "title": "Emission Source: "},
+        {"field": "Value", "type": "quantitative", "title": "Quantity (Tonnes/Capita)", "format": ".2f"}
+      ]
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent" 
+    }
+}
+}

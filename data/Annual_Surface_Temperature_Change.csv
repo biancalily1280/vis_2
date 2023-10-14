@@ -1,0 +1,227 @@
+Country,ISO2,ISO3,F1961,F2022
+"Afghanistan, Islamic Rep. of",AF,AFG,-0.113,2.012
+Albania,AL,ALB,0.627,1.518
+Algeria,DZ,DZA,0.164,1.688
+American Samoa,AS,ASM,0.079,1.256
+"Andorra, Principality of",AD,AND,0.736,3.243
+Angola,AO,AGO,0.041,1.212
+Anguilla,AI,AIA,0.086,0.839
+Antigua and Barbuda,AG,ATG,0.09,0.77
+Argentina,AR,ARG,0.122,0.643
+"Armenia, Rep. of",AM,ARM,,1.707
+"Aruba, Kingdom of the Netherlands",AW,ABW,-0.1,1.533
+Australia,AU,AUS,0.157,0.754
+Austria,AT,AUT,1.031,2.498
+"Azerbaijan, Rep. of",AZ,AZE,,2.08
+"Bahamas, The",BS,BHS,0.073,1.48
+"Bahrain, Kingdom of",BH,BHR,-0.471,2.017
+Bangladesh,BD,BGD,0.152,1.216
+Barbados,BB,BRB,0.221,1.543
+"Belarus, Rep. of",BY,BLR,,1.922
+Belgium,BE,BEL,,2.807
+Belize,BZ,BLZ,-0.001,1.031
+Benin,BJ,BEN,-0.137,0.884
+Bhutan,BT,BTN,0.213,1.523
+Bolivia,BO,BOL,0.247,0.644
+Bosnia and Herzegovina,BA,BIH,,2.091
+Botswana,BW,BWA,0.151,-1.305
+Brazil,BR,BRA,0.167,0.926
+British Virgin Islands,VG,VGB,0.093,0.875
+Brunei Darussalam,BN,BRN,0.062,1.446
+Bulgaria,BG,BGR,0.903,1.831
+Burkina Faso,BF,BFA,-0.285,0.802
+Burundi,BI,BDI,0.022,1.566
+Cabo Verde,CV,CPV,-0.12,1.853
+Cambodia,KH,KHM,-0.035,0.948
+Cameroon,CM,CMR,-0.117,1.044
+Canada,CA,CAN,0.057,1.268
+Cayman Islands,KY,CYM,,0.974
+Central African Rep.,CF,CAF,-0.003,1.032
+Chad,TD,TCD,-0.409,0.738
+Chile,CL,CHL,-0.301,0.407
+"China, P.R.: Hong Kong",HK,HKG,0.055,1.432
+"China, P.R.: Macao",MO,MAC,0.055,1.432
+"China, P.R.: Mainland",CN,CHN,0.259,1.906
+Colombia,CO,COL,0.09,0.874
+"Comoros, Union of the",KM,COM,0.457,0.521
+"Congo, Dem. Rep. of the",CD,COD,-0.03,1.48
+"Congo, Rep. of",CG,COG,-0.172,1.245
+Cook Islands,CK,COK,0.148,0.479
+Costa Rica,CR,CRI,,1.5
+"Croatia, Rep. of",HR,HRV,,2.209
+Cuba,CU,CUB,-0.084,1.437
+Cyprus,CY,CYP,0.039,1.237
+Czech Rep.,CZ,CZE,,2.394
+Denmark,DK,DNK,1.117,2.219
+Djibouti,DJ,DJI,0.118,1.547
+Dominica,DM,DMA,-0.033,0.688
+Dominican Rep.,DO,DOM,-0.009,0.982
+Ecuador,EC,ECU,-0.108,0.736
+"Egypt, Arab Rep. of",EG,EGY,-0.241,0.655
+El Salvador,SV,SLV,-0.073,0.658
+"Equatorial Guinea, Rep. of",GQ,GNQ,-0.146,1.247
+"Eritrea, The State of",ER,ERI,,0.53
+"Estonia, Rep. of",EE,EST,,1.961
+"Eswatini, Kingdom of",SZ,SWZ,0.268,1.371
+"Ethiopia, The Federal Dem. Rep. of",ET,ETH,,1.455
+Falkland Islands (Malvinas),FK,FLK,-0.351,1.5
+Faroe Islands,FO,FRO,0.63,1.396
+"Fiji, Rep. of",FJ,FJI,0.219,1.346
+Finland,FI,FIN,1.892,2.062
+France,FR,FRA,0.827,2.929
+French Polynesia,PF,PYF,0.207,0.359
+Gabon,GA,GAB,-0.139,0.994
+"Gambia, The",GM,GMB,-0.138,1.323
+Georgia,GE,GEO,,1.51
+Germany,DE,DEU,0.99,2.596
+Ghana,GH,GHA,-0.07,0.996
+Gibraltar,GI,GIB,0.595,2.228
+Greece,GR,GRC,0.479,1.04
+Greenland,GL,GRL,-0.295,1.413
+Grenada,GD,GRD,0.114,0.698
+Guadeloupe,GP,GLP,0.041,0.773
+Guatemala,GT,GTM,-0.045,0.916
+Guinea,GN,GIN,-0.145,1.195
+Guinea-Bissau,GW,GNB,-0.13,1.295
+Guyana,GY,GUY,0.043,1.066
+Haiti,HT,HTI,-0.012,1.095
+Holy See,VA,VAT,0.735,2.028
+Honduras,HN,HND,-0.058,0.723
+Hungary,HU,HUN,1.176,2.142
+Iceland,IS,ISL,0.547,1.201
+India,IN,IND,-0.208,0.79
+Indonesia,ID,IDN,-0.096,1.085
+"Iran, Islamic Rep. of",IR,IRN,-0.068,2.37
+Iraq,IQ,IRQ,-0.189,2.147
+Ireland,IE,IRL,0.264,1.764
+Isle of Man,IM,IMN,0.358,1.84
+Israel,IL,ISR,-0.106,1.079
+Italy,IT,ITA,0.805,2.135
+Jamaica,JM,JAM,-0.021,1.14
+Japan,JP,JPN,0.668,1.335
+Jordan,JO,JOR,-0.189,1.358
+"Kazakhstan, Rep. of",KZ,KAZ,,2.712
+Kenya,KE,KEN,0.258,1.28
+Kiribati,KI,KIR,-0.038,1.44
+"Korea, Dem. People's Rep. of",KP,PRK,0.495,1.61
+"Korea, Rep. of",KR,KOR,0.637,1.659
+Kosova ,XK,XXK,,0.901
+Kuwait,KW,KWT,-0.225,2.275
+Kyrgyz Rep.,KG,KGZ,,2.619
+Lao People's Dem. Rep.,LA,LAO,0.049,1.112
+Latvia,LV,LVA,,1.953
+Lebanon,LB,LBN,0.002,1.29
+"Lesotho, Kingdom of",LS,LSO,0.371,1.372
+Liberia,LR,LBR,-0.095,1.556
+Libya,LY,LBY,-0.473,0.559
+Liechtenstein,LI,LIE,1.052,2.534
+Lithuania,LT,LTU,,1.96
+Luxembourg,LU,LUX,,2.926
+"Madagascar, Rep. of",MG,MDG,0.522,0.86
+Malawi,MW,MWI,0.314,0.816
+Malaysia,MY,MYS,-0.07,1.367
+Maldives,MV,MDV,,0.784
+Mali,ML,MLI,-0.301,0.887
+Malta,MT,MLT,0.551,1.955
+"Marshall Islands, Rep. of the",MH,MHL,,0.007
+Martinique,MQ,MTQ,-0.04,0.684
+"Mauritania, Islamic Rep. of",MR,MRT,-0.047,1.711
+Mauritius,MU,MUS,0.524,0.595
+Mayotte,YT,MYT,0.444,0.678
+Mexico,MX,MEX,-0.145,1.249
+"Micronesia, Federated States of",FM,FSM,,0.627
+"Moldova, Rep. of",MD,MDA,,2.143
+Monaco,MC,MCO,0.739,2.737
+Mongolia,MN,MNG,0.17,2.197
+Montenegro,ME,MNE,,1.865
+Montserrat,MS,MSR,0.09,0.77
+Morocco,MA,MAR,0.57,2.303
+"Mozambique, Rep. of",MZ,MOZ,0.391,0.834
+Myanmar,MM,MMR,-0.024,1.436
+Namibia,NA,NAM,0.184,0.239
+"Nauru, Rep. of",NR,NRU,-0.404,1.566
+Nepal,NP,NPL,0.13,1.132
+"Netherlands, The",NL,NLD,0.852,2.601
+New Caledonia,NC,NCL,-0.248,2.421
+New Zealand,NZ,NZL,-0.282,1.319
+Nicaragua,NI,NIC,-0.089,0.842
+Niger,NE,NER,-0.694,0.428
+Nigeria,NG,NGA,-0.241,0.791
+Niue,NU,NIU,0.285,1.5
+Norfolk Island,NF,NFK,-0.315,1.225
+"North Macedonia, Republic of ",MK,MKD,,1.404
+Norway,NO,NOR,1.239,1.918
+Oman,OM,OMN,-0.274,1.055
+Pakistan,PK,PAK,-0.272,1.389
+"Palau, Rep. of",PW,PLW,,1.672
+Panama,PA,PAN,,0.728
+Papua New Guinea,PG,PNG,-0.162,1.221
+Paraguay,PY,PRY,0.563,0.649
+Peru,PE,PER,0.001,0.878
+Philippines,PH,PHL,-0.143,1.405
+Pitcairn Islands,PN,PCN,0.579,1.571
+"Poland, Rep. of",PL,POL,1.397,2.056
+Portugal,PT,PRT,0.815,2.318
+Puerto Rico,PR,PRI,-0.011,0.848
+Qatar,QA,QAT,-0.542,1.855
+Romania,RO,ROU,1.075,1.949
+Russian Federation,RU,RUS,,2.261
+Rwanda,RW,RWA,-0.019,2.2
+Saint Helena,SH,SHN,0.144,1.686
+Saint Pierre and Miquelon,PM,SPM,-0.04,1.944
+Samoa,WS,WSM,0.067,1.156
+"San Marino, Rep. of",SM,SMR,0.925,2.115
+"S�o Tom� and Pr�ncipe, Dem. Rep. of",ST,STP,-0.108,1.321
+Saudi Arabia,SA,SAU,-0.157,1.745
+Senegal,SN,SEN,-0.185,1.405
+"Serbia, Rep. of",RS,SRB,,1.938
+Seychelles,SC,SYC,0.317,0.872
+Sierra Leone,SL,SLE,-0.101,1.328
+Singapore,SG,SGP,,1.311
+Slovak Rep.,SK,SVK,,2.018
+"Slovenia, Rep. of",SI,SVN,,2.435
+Solomon Islands,SB,SLB,0.097,1.038
+Somalia,SO,SOM,0.333,1.449
+South Africa,ZA,ZAF,0.251,1.094
+"South Sudan, Rep. of",SS,SSD,,0.983
+Spain,ES,ESP,0.728,2.489
+Sri Lanka,LK,LKA,-0.105,1.004
+St. Kitts and Nevis,KN,KNA,0.09,0.77
+St. Lucia,LC,LCA,0.049,0.689
+St. Vincent and the Grenadines,VC,VCT,0.108,0.698
+Sudan,SD,SDN,,0.773
+Suriname,SR,SUR,-0.067,1.296
+Sweden,SE,SWE,1.563,2.11
+Switzerland,CH,CHE,0.988,2.798
+Syrian Arab Rep.,SY,SYR,-0.025,1.535
+Taiwan Province of China,TW,TWN,0.158,1.383
+"Tajikistan, Rep. of",TJ,TJK,,2.074
+"Tanzania, United Rep. of",TZ,TZA,0.334,0.911
+Thailand,TH,THA,-0.176,1.014
+"Timor-Leste, Dem. Rep. of",TL,TLS,-0.367,1.315
+Togo,TG,TGO,-0.066,0.975
+Tokelau,TK,TKL,-0.044,0.931
+Tonga,TO,TON,0.333,0.846
+Trinidad and Tobago,TT,TTO,0.188,0.714
+Tunisia,TN,TUN,0.274,2.291
+Turkmenistan,TM,TKM,,2.528
+Turks and Caicos Islands,TR,TCA,0.154,0.944
+Tuvalu,TV,TUV,-0.071,0.663
+Uganda,UG,UGA,-0.032,1.416
+Ukraine,UA,UKR,,1.931
+United Arab Emirates,AE,ARE,-0.285,1.482
+United Kingdom,GB,GBR,0.491,1.911
+United States,US,USA,0.003,1.217
+United States Virgin Islands,VI,VIR,0.069,0.894
+Uruguay,UY,URY,0.398,0.382
+"Uzbekistan, Rep. of",UZ,UZB,,2.607
+Vanuatu,VU,VUT,0.168,1.479
+"Venezuela, Rep. Bolivariana de",VE,VEN,0.072,0.533
+Vietnam,VN,VNM,0.014,1.033
+Wallis and Futuna Islands,WF,WLF,0.323,0.951
+West Bank and Gaza,PS,PSE,-0.11,1.074
+Western Sahara,EH,ESH,0.632,1.97
+World,,WLD,0.211,1.394
+"Yemen, Rep. of",YE,YEM,0.029,1.128
+Zambia,ZM,ZMB,0.228,0.686
+Zimbabwe,ZW,ZWE,0.267,-0.49

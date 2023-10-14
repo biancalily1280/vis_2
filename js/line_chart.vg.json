@@ -1,0 +1,67 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/carbon_dioxide.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "color": "black"
+      },
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "quantitative",
+          "title": "Year",
+          "axis": {
+            "tickCount": 50,
+            "values": [1750, 1800, 1850, 1900, 1950, 2000],
+            "format": "",
+            "grid": false
+          },
+          "scale": {
+            "domain": [1750, 2021]
+          }
+        },
+        "y": {
+          "field": "Emissions",
+          "type": "quantitative",
+          "title": "CO2 Emissions (Tonnes)",
+          "scale": {
+            "domain": [0, 40000000000]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          {
+            "field": "Emissions",
+            "type": "quantitative",
+            "title": "CO2 Emissions (Tonnes)",
+            "format": ".3s"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "bottom",
+        "text": "Emissions skyrocket",
+        "dx": -120,
+        "dy": 50,
+        "fontSize": 20, 
+        "fontWeight": 100, 
+        "fontStyle": "normal" 
+      }
+    }
+  ],
+  "title": "Global CO2 Emissions",
+  "width": 300,
+  "height": 300
+}

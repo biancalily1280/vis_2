@@ -1,0 +1,55 @@
+Type,Country,Value
+Oil,Australia,5.3684363
+Oil,Canada,6.3336277
+Oil,China,1.2015904
+Oil,Germany,2.9757214
+Oil,India,0.4420035
+Oil,South Africa,0.8806743
+Oil,United Kingdom,2.2905533
+Oil,United States,6.6284685
+Oil,World,1.4966137
+Coal,Australia,5.8237658
+Coal,Canada,1.1495758
+Coal,China,5.579649
+Coal,Germany,2.760161
+Coal,India,1.2804477
+Coal,South Africa,6.234256
+Coal,United Kingdom,0.35210106
+Coal,United States,2.9742048
+Coal,World,1.8939232
+Gas,Australia,2.979895
+Gas,Canada,6.169093
+Gas,China,0.54272366
+Gas,Germany,2.079931
+Gas,India,0.09480977
+Gas,South Africa,0.1386335
+Gas,United Kingdom,2.3612006
+Gas,United States,4.857715
+Gas,World,1.0015848
+Flaring,Australia,0.6663589
+Flaring,Canada,0.42083552
+Flaring,China,0.003280384
+Flaring,Germany,0.021669539
+Flaring,India,0.001969042
+Flaring,South Africa,0.000882203
+Flaring,United Kingdom,0.05163184
+Flaring,United States,0.20084523
+Flaring,World,0.052662794
+Other Industry,Australia,0.14421524
+Other Industry,Canada,0.053709093
+Other Industry,China,0.12030273
+Other Industry,Germany,0.093592875
+Other Industry,India,0
+Other Industry,South Africa,0
+Other Industry,United Kingdom,0.04065175
+Other Industry,United States,0.07516894
+Other Industry,World,0.03744275
+Cement,Australia,0.10879795
+Cement,Canada,0.17362615
+Cement,China,0.5981943
+Cement,Germany,0.1586644
+Cement,India,0.105857536
+Cement,South Africa,0.08538095
+Cement,United Kingdom,0.057961173
+Cement,United States,0.12226536
+Cement,World,0.21147174

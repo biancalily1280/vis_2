@@ -1,0 +1,30 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Pie Chart with percentage_tooltip",
+    "title": "Green House Gas Emission: 2022",
+    "data": {
+      "values": [
+        {"category": "Energy", "value": 73.2},
+        {"category": "Industry", "value": 5.2},
+        {"category": "Waste", "value": 3.2},
+        {"category": "Agriculture", "value": 18.4}
+      ]
+    },
+    "mark": {"type": "arc", "tooltip": true},
+    "encoding": {
+      "theta": {"field": "value", "type": "quantitative", "stack": "normalize", "title": "Contribution"},
+      "color": {
+        "field": "category",
+        "type": "nominal",
+        "scale": {"scheme": "plasma"},
+        "title": "Source"
+      }
+    },
+    "width": 250,
+    "height": 250,
+    "view": {"align": "center"},
+    "config": {
+      "view": {"stroke": "transparent"}
+    }
+  }
+  

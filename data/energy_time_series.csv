@@ -1,0 +1,233 @@
+Year,Type,TWh
+1965,Geothermal,17.985231
+1965,Solar Generation,0
+1965,Wind Generation,0
+1965,Hydro Generation,923.19806
+1966,Geothermal,19.806007
+1966,Solar Generation,0
+1966,Wind Generation,0
+1966,Hydro Generation,983.81696
+1967,Geothermal,19.98657
+1967,Solar Generation,0
+1967,Wind Generation,0
+1967,Hydro Generation,1005.7424
+1968,Geothermal,22.120045
+1968,Solar Generation,0
+1968,Wind Generation,0
+1968,Hydro Generation,1059.2887
+1969,Geothermal,23.257965
+1969,Solar Generation,0
+1969,Wind Generation,0
+1969,Hydro Generation,1121.7424
+1970,Geothermal,25.701897
+1970,Solar Generation,0
+1970,Wind Generation,0
+1970,Hydro Generation,1174.6497
+1971,Geothermal,27.888294
+1971,Solar Generation,0
+1971,Wind Generation,0
+1971,Hydro Generation,1227.2422
+1972,Geothermal,29.888775
+1972,Solar Generation,0
+1972,Wind Generation,0
+1972,Hydro Generation,1284.629
+1973,Geothermal,32.09585
+1973,Solar Generation,0
+1973,Wind Generation,0
+1973,Hydro Generation,1303.013
+1974,Geothermal,34.289085
+1974,Solar Generation,0
+1974,Wind Generation,0
+1974,Hydro Generation,1431.2317
+1975,Geothermal,34.81208
+1975,Solar Generation,0
+1975,Wind Generation,0
+1975,Hydro Generation,1448.8834
+1976,Geothermal,38.79105
+1976,Solar Generation,0
+1976,Wind Generation,0
+1976,Hydro Generation,1443.1366
+1977,Geothermal,40.89204
+1977,Solar Generation,0
+1977,Wind Generation,0
+1977,Hydro Generation,1491.6724
+1978,Geothermal,43.29665
+1978,Solar Generation,0
+1978,Wind Generation,0.003
+1978,Hydro Generation,1614.3823
+1979,Geothermal,46.499256
+1979,Solar Generation,0
+1979,Wind Generation,0.006
+1979,Hydro Generation,1695.1862
+1980,Geothermal,49.717464
+1980,Solar Generation,0
+1980,Wind Generation,0.0105
+1980,Hydro Generation,1731.6493
+1981,Geothermal,53.48617
+1981,Solar Generation,0
+1981,Wind Generation,0.0105
+1981,Hydro Generation,1768.9036
+1982,Geothermal,61.708954
+1982,Solar Generation,0
+1982,Wind Generation,0.0185
+1982,Hydro Generation,1800.9081
+1983,Geothermal,68.35493
+1983,Solar Generation,0.003
+1983,Wind Generation,0.03279495
+1983,Hydro Generation,1877.7689
+1984,Geothermal,76.34615
+1984,Solar Generation,0.006311111
+1984,Wind Generation,0.044755556
+1984,Hydro Generation,1941.3734
+1985,Geothermal,78.69558
+1985,Solar Generation,0.011747475
+1985,Wind Generation,0.064220205
+1985,Hydro Generation,1979.2446
+1986,Geothermal,85.43938
+1986,Solar Generation,0.015183838
+1986,Wind Generation,0.13883132
+1986,Hydro Generation,2006.0651
+1987,Geothermal,91.51002
+1987,Solar Generation,0.01060303
+1987,Wind Generation,0.19537677
+1987,Hydro Generation,2033.1884
+1988,Geothermal,94.15391
+1988,Solar Generation,0.01019596
+1988,Wind Generation,0.3315798
+1988,Hydro Generation,2098.3518
+1989,Geothermal,104.66536
+1989,Solar Generation,0.26222324
+1989,Wind Generation,2.6497767
+1989,Hydro Generation,2087.588
+1990,Geothermal,117.21735
+1990,Solar Generation,0.38834995
+1990,Wind Generation,3.6324706
+1990,Hydro Generation,2158.854
+1991,Geothermal,122.25421
+1991,Solar Generation,0.5053229
+1991,Wind Generation,4.086107
+1991,Hydro Generation,2208.702
+1992,Geothermal,131.14992
+1992,Solar Generation,0.4666791
+1992,Wind Generation,4.732812
+1992,Hydro Generation,2208.4592
+1993,Geothermal,135.47186
+1993,Solar Generation,0.5566775
+1993,Wind Generation,5.704169
+1993,Hydro Generation,2341.4597
+1994,Geothermal,140.66844
+1994,Solar Generation,0.5969829
+1994,Wind Generation,7.13173
+1994,Hydro Generation,2356.203
+1995,Geothermal,146.63136
+1995,Solar Generation,0.63888276
+1995,Wind Generation,8.272123
+1995,Hydro Generation,2483.6868
+1996,Geothermal,150.6927
+1996,Solar Generation,0.69922996
+1996,Wind Generation,9.215601
+1996,Hydro Generation,2517.03
+1997,Geothermal,161.40073
+1997,Solar Generation,0.7496558
+1997,Wind Generation,12.028216
+1997,Hydro Generation,2561.359
+1998,Geothermal,168.2064
+1998,Solar Generation,0.811852
+1998,Wind Generation,15.92926
+1998,Hydro Generation,2581.1204
+1999,Geothermal,176.63608
+1999,Solar Generation,0.9052879
+1999,Wind Generation,21.226898
+1999,Hydro Generation,2600.65
+2000,Geothermal,184.89665
+2000,Solar Generation,1.0594312
+2000,Wind Generation,31.409636
+2000,Hydro Generation,2646.7285
+2001,Geothermal,192.05826
+2001,Solar Generation,1.4237884
+2001,Wind Generation,38.380093
+2001,Hydro Generation,2578.737
+2002,Geothermal,206.70955
+2002,Solar Generation,1.7994766
+2002,Wind Generation,52.381878
+2002,Hydro Generation,2626.306
+2003,Geothermal,218.39073
+2003,Solar Generation,2.255641
+2003,Wind Generation,63.2847
+2003,Hydro Generation,2623.0532
+2004,Geothermal,236.05714
+2004,Solar Generation,2.9718347
+2004,Wind Generation,85.618484
+2004,Hydro Generation,2816.6147
+2005,Geothermal,255.4333
+2005,Solar Generation,4.187687
+2005,Wind Generation,104.62774
+2005,Hydro Generation,2911.3308
+2006,Geothermal,272.0138
+2006,Solar Generation,5.762825
+2006,Wind Generation,133.5028
+2006,Hydro Generation,3022.2476
+2007,Geothermal,295.2423
+2007,Solar Generation,7.818763
+2007,Wind Generation,171.5083
+2007,Hydro Generation,3072.5112
+2008,Geothermal,315.8789
+2008,Solar Generation,12.6981945
+2008,Wind Generation,221.41554
+2008,Hydro Generation,3251.702
+2009,Geothermal,339.2694
+2009,Solar Generation,21.073503
+2009,Wind Generation,276.79816
+2009,Hydro Generation,3246.445
+2010,Geothermal,378.83444
+2010,Solar Generation,33.912262
+2010,Wind Generation,346.40918
+2010,Hydro Generation,3430.1318
+2011,Geothermal,397.6471
+2011,Solar Generation,65.64861
+2011,Wind Generation,440.67798
+2011,Hydro Generation,3492.674
+2012,Geothermal,430.3208
+2012,Solar Generation,101.52152
+2012,Wind Generation,530.5034
+2012,Hydro Generation,3641.8489
+2013,Geothermal,464.44162
+2013,Solar Generation,138.59294
+2013,Wind Generation,635.5076
+2013,Hydro Generation,3788.1174
+2014,Geothermal,502.8774
+2014,Solar Generation,197.2615
+2014,Wind Generation,705.8885
+2014,Hydro Generation,3889.0215
+2015,Geothermal,544.0647
+2015,Solar Generation,255.97948
+2015,Wind Generation,831.37604
+2015,Hydro Generation,3879.4531
+2016,Geothermal,552.9557
+2016,Solar Generation,328.41495
+2016,Wind Generation,962.1343
+2016,Hydro Generation,4014.4116
+2017,Geothermal,588.78033
+2017,Solar Generation,445.47995
+2017,Wind Generation,1141.5242
+2017,Hydro Generation,4071.2231
+2018,Geothermal,636.2133
+2018,Solar Generation,575.76025
+2018,Wind Generation,1269.5287
+2018,Hydro Generation,4189.757
+2019,Geothermal,667.61945
+2019,Solar Generation,705.22516
+2019,Wind Generation,1420.624
+2019,Hydro Generation,4243.2876
+2020,Geothermal,702.9823
+2020,Solar Generation,854.37476
+2020,Wind Generation,1593.953
+2020,Hydro Generation,4359.012
+2021,Geothermal,751.1769
+2021,Solar Generation,1059.2937
+2021,Wind Generation,1854.1052
+2021,Hydro Generation,4288.783
+2022,Geothermal,776.85657
+2022,Solar Generation,1322.6157
+2022,Wind Generation,2104.8396
+2022,Hydro Generation,4334.19
